@@ -9,11 +9,6 @@ Predict whether a mushroom is edible or poisonous based on its physical characte
 - All features are categorical
 - Target variable: `class` → edible (e) or poisonous (p)
 
-## Project Structure
-mushroom-classification/
-├── mushrooms.csv
-├── notebook.ipynb
-└── README.md
 
 ## Roadmap
 - [x] Phase 1: Understanding the Data
