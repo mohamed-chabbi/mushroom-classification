@@ -4,7 +4,6 @@
 Predict whether a mushroom is edible or poisonous based on its physical characteristics.
 
 ## Dataset
-- Source: UCI Mushroom Dataset
 - 8124 rows, 23 columns
 - All features are categorical
 - Target variable: `class` → edible (e) or poisonous (p)
