@@ -14,8 +14,6 @@ Predict whether a mushroom is edible or poisonous based on its physical characte
 - [x] Phase 2: Exploratory Data Analysis
 - [ ] Phase 3: Data Preparation & Encoding
 - [ ] Phase 4: Machine Learning Modeling
-- [ ] Phase 5: Model Evaluation & Comparison
-- [ ] Phase 6: Final Conclusions
 
 ## Tools Used
 - Python
